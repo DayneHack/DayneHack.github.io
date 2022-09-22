@@ -6,3 +6,17 @@ body {
     background: gainsboro;
     text-align: center;
 }
+
+hr.one {
+    border: none;
+    height: 3px;
+    /* Set the hr color */
+    background-color: gray; /* Modern Browsers */
+}
+
+hr.two {
+    border: none;
+    height: 2px;
+    /* Set the hr color */
+    background-color: gray; /* Modern Browsers */
+}
