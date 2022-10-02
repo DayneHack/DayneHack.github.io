@@ -16,7 +16,7 @@ hr.one {
 
 hr.two {
     border: none;
-    height: 2px;
+    height: 1px;
     /* Set the hr color */
     background-color: gray; /* Modern Browsers */
 }
