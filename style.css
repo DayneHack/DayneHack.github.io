@@ -10,13 +10,16 @@ body {
 hr.one {
     border: none;
     height: 3px;
-    /* Set the hr color */
-    background-color: gray; /* Modern Browsers */
+    background-color: gray;
 }
 
 hr.two {
     border: none;
     height: 1px;
-    /* Set the hr color */
-    background-color: gray; /* Modern Browsers */
+    background-color: gray;
+}
+
+img {
+    max-width: 900px;
+    max-height: 900px;
 }
