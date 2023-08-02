@@ -23,3 +23,37 @@ img {
     max-width: 900px;
     max-height: 900px;
 }
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #7c7a7c;
+    color: rgb(7, 7, 7);
+    font-size: 30px;
+  }
+
+  .row {
+    display: flex;
+  }
+  
+  .columnOne {
+    flex: 50%;
+    padding: 10px;
+    height: 700px;
+  }
+
+  .columnTwo {
+    flex: 50%;
+    padding: 10px;
+    height: 400px;
+  }
+
+  .imgOne {
+    width:100%;
+    max-width:500px;
+  }
+
+  .imgTwo {
+    width:100%;
+    max-width:700px;
+  }
